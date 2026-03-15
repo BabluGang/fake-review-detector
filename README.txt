@@ -34,4 +34,4 @@ streamlit run app.py
 ```
 
 ## 📬 Contact
-Built by Bilal Lodhi — [LinkedIn](#) <!-- add your LinkedIn URL -->
+Built by Bilal Lodhi — linkedin.com/in/bilal-lodhi-8a83651aa
